@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace IEFCore.WebAPI
+namespace EFCore.WebAPI
 {
     public class Program
     {
